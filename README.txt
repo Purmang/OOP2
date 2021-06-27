@@ -3,4 +3,8 @@ msvs 2019
 
 ubuntu (wsl2)
 
-git
+git(window)
+
+git(linux)
+github
+
